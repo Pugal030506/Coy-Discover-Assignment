@@ -1,0 +1,22 @@
+{
+  "swipes": [
+    {
+      "userId": "demo-user",
+      "profileId": "p01",
+      "action": "like",
+      "createdAt": "2026-11-27T15:09:45.363Z"
+    },
+    {
+      "userId": "demo-user",
+      "profileId": "p02",
+      "action": "pass",
+      "createdAt": "2026-11-27T15:14:24.303Z"
+    }
+  ],
+  "matches": [
+    {
+      "profileId": "p01",
+      "createdAt": "2026-11-27T15:09:45.363Z"
+    }
+  ]
+}
